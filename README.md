@@ -1,1 +1,1 @@
-# SentiLexRNN :Text Regeneration Using Lexicon-Based Sentimatal Analysis via Recurrent Neural Networks 
+# ReLexRNN :Text Regeneration Using Lexicon-Based Sentimatal Analysis via Recurrent Neural Networks 
