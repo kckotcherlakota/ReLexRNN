@@ -1,4 +1,4 @@
-# ReLexRNN :Text Regeneration Using Lexicon-Based Sentimatal Analysis via Recurrent Neural Networks 
+# ReLexRNN :Text Regeneration Using Lexicon-Based Sentimatal Analysis via GPT-2 
 
 
 ### Algorithm for the lexicon-based sentimental analysis
